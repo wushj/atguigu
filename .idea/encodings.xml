@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Spring4/spring-1/src/com/atguigu/spring/annotation/UserAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-1/src/com/atguigu/spring/annotation/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-1/src/com/atguigu/spring/annotation/UsreService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-1/src/com/atguigu/spring/annotation/generic/UserService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-1/src/com/atguigu/spring/helloworld/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-1/src/com/atguigu/spring/ref/MyBeanPostProcessor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-1/src/com/atguigu/spring/ref/UserBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-2/src/com/atguigu/spring/helloworld/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-3/src/com/atguigu/spring/aop/LoggingAspect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-4/src/com/atguigu/spring/jdbc/DepartmentDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-4/src/com/atguigu/spring/jdbc/JDBCTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-4/src/com/atguigu/spring/tx/BookShopDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-4/src/com/atguigu/spring/tx/BookShopDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-4/src/com/atguigu/spring/tx/BookShopServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-4/src/com/atguigu/spring/tx/xml/BookShopDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-4/src/com/atguigu/spring/tx/xml/BookShopDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-4/src/com/atguigu/spring/tx/xml/service/impl/BookShopServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring4/spring-5/src/com/atguigu/spring/hibernate/dao/impl/BookShopDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/SpringMVC/springmvc-1/src/com/atguigu/springmvc/handlers/HelloWorld.java" charset="GBK" />
+  </component>
+</project>

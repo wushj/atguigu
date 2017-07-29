@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring4/Spring4.iml" filepath="$PROJECT_DIR$/Spring4/Spring4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC/SpringMVC.iml" filepath="$PROJECT_DIR$/SpringMVC/SpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu.iml" filepath="$PROJECT_DIR$/atguigu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring4/spring-1/spring-1.iml" filepath="$PROJECT_DIR$/Spring4/spring-1/spring-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring4/spring-2/spring-2.iml" filepath="$PROJECT_DIR$/Spring4/spring-2/spring-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring4/spring-3/spring-3.iml" filepath="$PROJECT_DIR$/Spring4/spring-3/spring-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring4/spring-4/spring-4.iml" filepath="$PROJECT_DIR$/Spring4/spring-4/spring-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring4/spring-5/spring-5.iml" filepath="$PROJECT_DIR$/Spring4/spring-5/spring-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring4/spring-6/spring-6.iml" filepath="$PROJECT_DIR$/Spring4/spring-6/spring-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring4/spring-7/spring-7.iml" filepath="$PROJECT_DIR$/Spring4/spring-7/spring-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC/springmvc-1/springmvc-1.iml" filepath="$PROJECT_DIR$/SpringMVC/springmvc-1/springmvc-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC/springmvc-2/springmvc-2.iml" filepath="$PROJECT_DIR$/SpringMVC/springmvc-2/springmvc-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC/springmvc-3/springmvc-3.iml" filepath="$PROJECT_DIR$/SpringMVC/springmvc-3/springmvc-3.iml" />
+    </modules>
+  </component>
+</project>
