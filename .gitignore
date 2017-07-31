@@ -1,0 +1,48 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.idea/inspectionProfiles/
+Spring4/spring-1/bin/com/
+Spring4/spring-1/lib/
+Spring4/spring-2/lib/
+Spring4/spring-3/bin/com/
+Spring4/spring-3/lib/
+Spring4/spring-4/bin/com/atguigu/spring/tx/
+Spring4/spring-4/lib/
+Spring4/spring-5/bin/com/atguigu/spring/hibernate/dao/
+Spring4/spring-5/bin/com/atguigu/spring/hibernate/exceptions/
+Spring4/spring-5/bin/com/atguigu/spring/hibernate/service/
+Spring4/spring-5/bin/com/atguigu/spring/hibernate/test/
+Spring4/spring-6/WebContent/WEB-INF/lib/
+Spring4/spring-6/build/classes/com/
+Spring4/spring-7/WebContent/WEB-INF/lib/
+Spring4/spring-7/build/classes/com/
+SpringMVC/springmvc-1/build/classes/com/
+SpringMVC/springmvc-2/WebContent/WEB-INF/lib/
+SpringMVC/springmvc-2/build/classes/com/atguigu/springmvc/converters/
+SpringMVC/springmvc-2/build/classes/com/atguigu/springmvc/crud/
+SpringMVC/springmvc-2/build/classes/com/atguigu/springmvc/interceptors/
+SpringMVC/springmvc-3/WebContent/WEB-INF/lib/
+SpringMVC/springmvc-3/build/classes/com/

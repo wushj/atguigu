@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
     <file url="file://$PROJECT_DIR$/Spring4/spring-1/src/com/atguigu/spring/annotation/UserAction.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Spring4/spring-1/src/com/atguigu/spring/annotation/UserDao.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Spring4/spring-1/src/com/atguigu/spring/annotation/UsreService.java" charset="GBK" />
@@ -20,5 +20,6 @@
     <file url="file://$PROJECT_DIR$/Spring4/spring-4/src/com/atguigu/spring/tx/xml/service/impl/BookShopServiceImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Spring4/spring-5/src/com/atguigu/spring/hibernate/dao/impl/BookShopDaoImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/SpringMVC/springmvc-1/src/com/atguigu/springmvc/handlers/HelloWorld.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>

@@ -28,5 +28,37 @@
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../SpringMVC/springmvc-1/WebContent/WEB-INF/javax.transaction.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../SpringMVC/springmvc-1/WebContent/WEB-INF/javax.resource.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../SpringMVC/springmvc-1/WebContent/WEB-INF/javax.jms.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../SpringMVC/springmvc-1/WebContent/WEB-INF/javax.annotation.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../SpringMVC/springmvc-1/WebContent/WEB-INF/javax.ejb.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../SpringMVC/springmvc-1/WebContent/WEB-INF/javax.servlet.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../SpringMVC/springmvc-1/WebContent/WEB-INF/javax.persistence.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../SpringMVC/springmvc-1/WebContent/WEB-INF/javax.servlet.jsp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../spring-1/lib/c3p0-0.9.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../spring-1/lib/commons-logging-1.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../spring-1/lib/spring-aop-4.0.0.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../spring-1/lib/spring-core-4.0.0.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../spring-1/lib/spring-beans-4.0.0.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../spring-1/lib/spring-context-4.0.0.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../spring-1/lib/mysql-connector-java-5.1.7-bin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../spring-1/lib/spring-expression-4.0.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
