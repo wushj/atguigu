@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/Hibernate.iml" filepath="$PROJECT_DIR$/Hibernate/Hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/Hibernate-1/Hibernate-1.iml" filepath="$PROJECT_DIR$/Hibernate/Hibernate-1/Hibernate-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/Hibernate-2/Hibernate-2.iml" filepath="$PROJECT_DIR$/Hibernate/Hibernate-2/Hibernate-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring4/Spring4.iml" filepath="$PROJECT_DIR$/Spring4/Spring4.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC/SpringMVC.iml" filepath="$PROJECT_DIR$/SpringMVC/SpringMVC.iml" />
